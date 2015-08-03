@@ -1,0 +1,1 @@
+Check how many times the pattern occurs in Bloom filter before actually trying to search in the input string.
